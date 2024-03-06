@@ -1,0 +1,30 @@
+{
+  "name": "playwright-learning",
+  "version": "1.0.0",
+  "description": "Learning by work",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveensubbarao/playwright-learning.git"
+  },
+  "keywords": [
+    "playwright",
+    "examples"
+  ],
+  "author": "Praveen Subbarao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveensubbarao/playwright-learning/issues"
+  },
+  "homepage": "https://github.com/praveensubbarao/playwright-learning#readme",
+  "dependencies": {
+    "prettier": "^3.2.4",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.24",
+    "playwright-core": "^1.42.1"
+  }
+}

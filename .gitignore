@@ -1,0 +1,9 @@
+# Ignore Node.js modules
+node_modules/
+
+# ingnore screen shots
+screenshot*
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
